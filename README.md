@@ -1,9 +1,9 @@
 ### Hi there, I'm Thiago Cordeiro, a software developer. 👋
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagocordeirooo&show_icons=true&count_private=true&include_all_commits=true&count_private=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagocordeirooo&show_icons=true&count_private=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocordeirooo&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocordeirooo&layout=compact)
 
 ![ViewCount](https://komarev.com/ghpvc/?username=thiagocordeirooo&color=0195dd)
 
